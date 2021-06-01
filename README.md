@@ -1,15 +1,6 @@
 # PetCloud
 
-Sistema de veterinarios y dueños de mascota que permite digitalizar la ficha veterinaria de manera simple y en tiempo real
-
-## Funcionalidades
-
-### Dueños de Mascota
-El dueño de mascota puede registrarse como usuario, puede indentificarse para poder ver la información de las mascotas asociadas a su usuario
-
-### Veterinario
-El veterinario puede crear nuevas mascotas asociadas al codigo de identificación de la mascota segun el registro nacional de mascotas, ademas puede modificar los datos de cada mascota.
-
+Aplicación ganadora del GeekCon 2021, que permite digitalizar la ficha veterinaria de las mascotas donde el veterinario puede crear y modificar registros de peso, vacunas y estado de salud de las mascotas, los cuales, posteriormente, pueden ser visualizados por los dueños de mascota desde dispositivos moviles o desktop.
 
 ## Tecnologías Utilizadas  🚀
 
@@ -32,35 +23,11 @@ El veterinario puede crear nuevas mascotas asociadas al codigo de identificació
 | AWS |
 
 
-## Prerequisitos 📋
-
-Que se debe instalar
-
-```
-Formato de codigo
-```
-
-## Instalación 🔧
-
-Paso a paso como correr el entorno de desarrollo
-
-```
-Formato de codigo
-```
-
-## Ejecutar Pruebas ⚙️
-
-Paso a paso como correr el entorno de desarrollo
-
-```
-Formato de codigo
-```
-
-
 ## Autores ✒️
 
-* **Nombre** - *Initial work* - Github
-
+* **Alvaro Brante**
+* **Nico Araya**
+* **Francisco Correa**
 
 ## Licencia
 
